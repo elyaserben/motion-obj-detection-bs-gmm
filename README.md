@@ -6,7 +6,7 @@ Made with MATLAB:
 - DOBmGMM.m: .m file for storing function needed in app
 - MotionObjectDetector.mlapp: .mlapp / application (GUI) file
 
-For testing purpose, try to input:
+For testing purpose, upload 'videotest1.avi', then try to input:
 - Learning rate, alpha      : 0.005
 - Minimum background ratio  : 0.7
 - Number of training frames : 40
